@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Store</title>
+</head>
+
+<body style="background-color:#ffcb9a">
+<h1 style="color:Maroon;font-family:Times New Roman;text-align:Center"><b> <u>Web Store</u> </b></h1>
+<h3 style="color:Maroon;font-family:Times New Roman;text-align:Center"><u>Always in Style</u></h3>
+<hr>
+<h2 style="color:Brown;font-family:Times New Roman;text-align:Center"><b>Welcome to Web Store</b></h2>
+<h3 style="color:Orange;font-family:Times New Roman;text-align:Center">From Our Kitchen To Yours.</h3>
+<style>
+.bake{
+   background-color:"grey";
+   border:2px solid maroon;
+   margin;20px;
+   padding:20px;
+}
+</style>
+<div class="bake">
+<p >Celebrating moments of happiness is definitely incomplete without bakery products. These freshly baked goodies serve as one of the sweetest treats for almost every individual. Accordingly, studies reveal that food appearance has a great link with the level of appetite. Typically, delicious bread, rolls, cookies, pastries, muffins, pies and cakes are excellent bread products that are obviously visually appealing. </p>
+</div>
+<br>
+<br>
+<img src="https://th.bing.com/th/id/OIP.Coa2zD8mMdDTrtnXiMORfwAAAA?w=258&h=180&c=7&o=5&pid=1.7" alt="Ice Cream" width="250" height="250">
+
+<img src="https://th.bing.com/th/id/OIP.tywzJ2v9BSuLfq_YvdxVAgHaFw?pid=ImgDet&w=590&h=459&rs=1" alt="Cup Cake" width="250" height="250">
+
+<img src="https://i0.wp.com/tartuficakes.co.uk/wp-content/uploads/2020/02/web_celebration_2.jpg" alt="cakes" width="250"  height="250">
+
+<img src="https://th.bing.com/th/id/R42bb421ba57a5928362a77519522bee3?rik=s7mp82uXx%2b39%2fw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-OkAiUORw9-I%2fUoEGuHW5LXI%2fAAAAAAAAAnM%2fy1KUH9t_Z9A%2fs320%2fDSC03297.JPG&ehk=docm%2bn9liUw%2fjWCWBS%2bCclr3DUYrsOZK%2b7iQyLtC%2bTQ%3d&risl=&pid=ImgRaw" alt="rolls"  width="250" height="250">
+
+<img src="https://th.bing.com/th/id/OIP._BR9lHMAMjLbrE-zDmG08QHaLH?w=182&h=273&c=7&o=5&pid=1.7" alt="rolls" width="250" height="250">
+
+
+<br>
+<a href=" https://images.pexels.com/photos/2819088/pexels-photo-2819088.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200">Have it!</a>
+
+<br>
+<br>
+
+<h2 style="Color:Brown";><u> Bakery Products</u></h2>
+<ul>
+      <li style="Color:Orange";>Cake</li>
+     <li  style="Color:Orange";> Rusk Toast</li>
+     <li  style="Color:Orange";>Pastry</li>
+    <li  style="Color:Orange";>Cup Cakes</li>
+    <li  style="Color:Orange";>Ice Cream Dish</li>
+    <li  style="Color:Orange";>Brownie</li>
+</ul>
+<p style= "font-size:40px>
+&#128512;128077;
+</p>
+
+
+
+
+
+
+<address>
+By:Akanksha Bharne.<br>
+Mob No:7888122556<br>
+</address>
+</body>
+</html>
